@@ -1,0 +1,4 @@
+lancer l api:
+-npm start dans le dossier
+
+(penser au nom install pour reinstaller)

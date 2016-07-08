@@ -1,0 +1,3 @@
+lancer mongod dans le dossier mangodb
+lancer nodedemonserver.js dans le dossier API_AUTH
+lancer npm start dans le dossier hubproject
